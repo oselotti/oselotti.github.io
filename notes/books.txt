@@ -1,0 +1,21 @@
+Books
+
+Programming
+===========
+
+The C Programming Language
+* 9780131101630
+* Brian W. Kernighan, Dennis M. Ritchie
+
+Safer C
+* 9780077076405
+* Les Hatton
+
+The C++ Programming Language: Special Edition
+* 9780201700732
+* Bjarne Stroustrup
+
+Java Performance Tuning
+* 9780596003777
+* Jack Shirazi
+
