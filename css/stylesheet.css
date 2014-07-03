@@ -7,6 +7,10 @@
     text-align: center;
 }
 
+h1 {
+    font-size: 1.5em;
+}
+
 a {
     color: #9AFF9A;
     text-decoration: none;
@@ -16,7 +20,8 @@ div {
     display: inline-block;
 }
 
-pre {
+.code {
     text-align: left;
+    white-space: pre;
 }
 
