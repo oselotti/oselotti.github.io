@@ -5,7 +5,7 @@ Windows NT
 * Microsoft Windows 98/XP/Vista/7 (1999 - 2011)
 
 Linux
-* Ubuntu (2009 - 2011)
+* Ubuntu (2008 - 2011)
 * Arch Linux (2011 - 2012)
 * Debian GNU/Linux (2012 - )
 * Raspbian (2012 - )
