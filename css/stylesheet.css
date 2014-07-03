@@ -4,10 +4,19 @@
     font-size: 1em;
     color: #99CCFF;
     background-color: #333;
+    text-align: center;
 }
 
 a {
     color: #9AFF9A;
     text-decoration: none;
+}
+
+div {
+    display: inline-block;
+}
+
+pre {
+    text-align: left;
 }
 
